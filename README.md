@@ -9,7 +9,7 @@
 
 <br />
 
-------------------
+---
 
 <br />
 
@@ -46,7 +46,7 @@
 
 <br />
 
----------------------
+---
 
 <br />
 
@@ -57,8 +57,9 @@
 <br />
 
 <div align="center">
-    <a href="2021bongwonny@gmail.com"><img src="https://img.shields.io/badge/Gmail-E50914??style=flat&logo=gmail&logoColor=white"/></a>
-    <a href="https://2021bong.tistory.com/"><img src="https://img.shields.io/badge/tistory-lightgrey??style=flat&logo=tistory&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Gmail-E50914??style=flat&logo=gmail&logoColor=white"/><span>&nbsp;&nbsp;2021bongwonny@gmail.com</span>
+    <br />
+    <a href="https://2021bong.tistory.com/"><img src="https://img.shields.io/badge/tistory-lightgrey??style=flat&logo=tistory&logoColor=white"/><span>&nbsp;&nbsp;https://2021bong.tistory.com/</span></a>
 </div>
 </div>
 

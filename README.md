@@ -69,18 +69,16 @@
 
 <br />
 
-<div style='display:flex; justify-content:space-around; align-items:flex-end;'>
+<div align="center">
 
-<div style='margin-right: 20px'>
+![Bong's GitHub stats](https://github-readme-stats.vercel.app/api?username=2021bong&hide=stars,issues&show_icons=true&theme=swift)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2021bong&show_icons=true)
+<br />
 
-</div>
+[![Bong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2021bong&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2021bong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
+</div>    
+    
 <br />
 
 <!--

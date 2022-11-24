@@ -63,6 +63,26 @@
 </div>
 </div>
 
+<br />
+
+---
+
+<br />
+
+<div style='display:flex; justify-content:space-around; align-items:flex-end;'>
+
+<div style='margin-right: 20px'>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2021bong&show_icons=true)
+
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2021bong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<br />
+
 <!--
 **2021bong/2021bong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

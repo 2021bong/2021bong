@@ -27,8 +27,8 @@
     <br />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/react-61DAFB??style=flat&logo=react&logoColor=white"/>
-    <br />
-      <img src="https://img.shields.io/badge/Mysql-0063B2??style=flat&logo=MySql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Typescript-0063B2??style=flat&logo=typescript&logoColor=white"/>
+
 </div>
 </div>
 
@@ -39,8 +39,12 @@
 
 🌱 I’m currently learning
 
-<img src="https://img.shields.io/badge/Typescript-0063B2??style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-222??style=flat&logo=Next.js&logoColor=white"/>
+<br />
+<img src="https://img.shields.io/badge/Mysql-0063B2??style=flat&logo=MySql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933??style=flat&logo=Node.js&logoColor=white"/>
+<br />
+<img src="https://img.shields.io/badge/Python-3776AB??style=flat&logo=Python&logoColor=white"/>
 
 </div>
 

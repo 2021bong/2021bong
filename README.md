@@ -1,29 +1,36 @@
-### 👋 Introduction
+# Introduction
 
-#### Front-end programmer 봉원희입니다. 😀
+**Web Frontend Programmer**
 
-##### 개발을 통해 상상한 것을 구현하고 그를 통해 사람들과 소통하는 데서 즐거움을 느낍니다.
+개발을 통해 상상한 것을 구현하고 그를 통해 사람들과 소통하는 데서 즐거움을 느낍니다.
+<br />
+I get pleasure from implementing what I envision through development and connecting with people through it.
 
----
+<br />
 
-### 🛠 TECH STACK
+# Contact & Channel
 
-#### ✨ SKILL
+[Email : 2021bongwonny@gmail.com](mailto:2021bongwonny@gmail.com)
+<br />
+[Blog : velog.io/@2021bong](https://velog.io/@2021bong)
+
+<br />
+
+# Skill
+
+### Skillful
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB??style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB??style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-0063B2??style=flat&logo=typescript&logoColor=white"/>
 </div>
 
-<br/>
-
-#### ✏️ STUDYING
+#### Studying
 
 <div>
-<img src="https://img.shields.io/badge/Python-3776AB??style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-222??style=flat&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-0063B2??style=flat&logo=MySql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D??style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933??style=flat&logo=Node.js&logoColor=white"/>
 </div>
 
